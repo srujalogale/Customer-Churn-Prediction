@@ -5,11 +5,11 @@
 A full-stack web application that predicts customer churn probability using a scoring-based machine learning approach. The system provides risk classification and interpretable insights to help businesses understand why a customer is likely to leave.
 
 ---
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
+![](11.png)
+![](22.png)
+![](33.png)
+![](44.png)
+![](55.png)
 
 ## ✨ Key Features
 
